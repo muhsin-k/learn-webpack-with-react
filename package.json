@@ -5,6 +5,9 @@
   "repository": "https://github.com/muhzi4u/learn-webpack-with-react.git",
   "author": "muhzi4u <muhsinkeramam@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
